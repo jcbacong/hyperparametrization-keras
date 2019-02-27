@@ -1,8 +1,8 @@
 Sample for keras implemntation of hyperparametrization using hyperopt for MLP regression model.<br/>
 This block of code also demonstrates how to save trained model in json and h5 formats.
 
-Training dataset: energydata.csv<br/>
-Test file: energytest.csv
+Prereq package: ```hyperopt```<br/>
+Install using ```pip`` (```pip install hyperopt```) or using ```conda``` (see intallation guid in Anaconda).
 
 To train the MLP and save the model: ```>> python main.py```
 
